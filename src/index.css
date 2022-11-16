@@ -18,6 +18,7 @@ body {
   background: rgb(231, 231, 231);
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 18px;
+  background-color: app light
 }
 
 button,
@@ -68,6 +69,7 @@ header h2 {
 
 header button {
   background: var(--yellow);
+  cursor: pointer;
 }
 
 .Filter select {
